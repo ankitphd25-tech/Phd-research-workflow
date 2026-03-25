@@ -1,0 +1,2 @@
+APA Style 
+Zhao, W., Weng, T., Ruan, Y., Liu, Z., Wu, X., Zheng, X., & Kato, N. (2024). Quantum computing in wireless communications and networking: A tutorial-cum-survey. IEEE Communications Surveys & Tutorials, 27(4), 2378-2419.
