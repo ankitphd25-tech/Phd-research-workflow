@@ -1,0 +1,16 @@
+student_id,experiment_score,temperature,humidity
+201,Exp_A,88,23.4
+202,Exp_B,,24.0
+203,Exp_C,76,
+204,Exp_A,91,23.8
+205,Exp_B,85,
+206,Exp_C,,22.9
+207,Exp_A,89,23.5
+208,Exp_B,,24.2
+209,Exp_C,78,23
+210,Exp_A,,23.7
+211,Exp_B,83,
+212,Exp_C,80,22.8
+213,Exp_A,,23.6
+214,Exp_B,87,24.1
+215,Exp_C,,23.0
